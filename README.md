@@ -30,3 +30,9 @@ corpus_counted = make_corpus(email, term_1, term_2, count_list = TRUE)
 
 ```
 All/any changes & pull requests welcomed. 
+
+```
+requirements:
+Biopython
+
+```
