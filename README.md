@@ -12,7 +12,7 @@ An email address must be provided to enable API searching of PubMed via. [BioPyt
 Multiple terms can be used, separated by commas.
 
 ```
-make_corpus(email, terms*, count_list=FALSE
+make_corpus(email, terms*, count_list=FALSE)
 ```
 
 Example use:
