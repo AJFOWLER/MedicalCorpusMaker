@@ -3,7 +3,7 @@ Create a custom medical corpus using PubMed API.
 
 This has been created to enable development of a custom corpus for machine learning / natural language processing. 
 
-This is based on searching a large medical index - [PubMed] (https://www.ncbi.nlm.nih.gov/pubmed) for custom search terms.
+This is based on searching a large medical index - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) for custom search terms.
 
 The abstracts are then collated to return either a Counter object with all terms and their frequency, or just the whole corpus. This is selected by setting count_list to TRUE (default is FALSE)
 
