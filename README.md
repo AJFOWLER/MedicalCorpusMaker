@@ -29,6 +29,9 @@ corpus_counted = make_corpus(email, term_1, term_2, count_list = TRUE)
 #returns Counter object
 
 ```
+
+This corpus can then be used in e.g. a [custom text splitter](https://stackoverflow.com/questions/38125281/split-sentence-without-space-in-python-nltk)
+
 All/any changes & pull requests welcomed. 
 
 ```
